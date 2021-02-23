@@ -1,0 +1,40 @@
+{
+  "name": "react-native-gyroscope-animation",
+  "title": "React Native Gyroscope Animation",
+  "version": "1.0.15",
+  "description": "",
+  "homepage": "https://github.com/wandersher/react-native-gyroscope-animation#readme",
+  "main": "index.js",
+  "files": [
+    "README.md",
+    "index.js"
+  ],
+  "author": {
+    "name": "Nazar Vaskiv",
+    "email": "vaskiv27@gmail.com"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wandersher/react-native-gyroscope-animation.git",
+    "baseUrl": "https://github.com/wandersher/react-native-gyroscope-animation"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*",
+    "react-native-sensors": "^7.2.0"
+  },
+  "devDependencies": {
+    "react": "^16.9.0",
+    "react-native": "^0.61.5",
+    "react-native-sensors": "^7.2.0"
+  }
+}
